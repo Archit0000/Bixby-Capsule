@@ -1,2 +1,1 @@
-# Bixby-Capsule
-Bixby will speak what you want.
+# playground.hello_world
